@@ -39,9 +39,8 @@ Offensive security professional based in Asia. Currently sharpening my skills an
 
 ## 🎯 2026 Goals
 
-- 🏆 OSCP
 - 🧪 Root 50+ HTB machines
-- 🐍 Build and publish offensive security tools in Python
+- 🐍 Publish offensive security tools in Python
 - 📝 Document everything — writeups, notes, and lessons learned
 
 ## 🛠️ Tools & Technologies
